@@ -6,6 +6,8 @@
 
 Ask *"where did we figure out that auth bug?"* and your current agent searches your past coding chats across all three tools, then pulls the relevant messages into your new chat. Start fresh, switch agents, or come back weeks later without explaining everything again.
 
+[![Discord](https://img.shields.io/badge/Join_the_community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hrTSX5yTpB)
+
 [Quick Start](#quick-start) · [Try it](#try-it) · [Privacy](#private-by-default) · [More plugins](https://github.com/JCodesMore/jcodesmore-plugins)
 
 </div>
